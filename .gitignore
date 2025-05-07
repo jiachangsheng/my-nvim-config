@@ -1,0 +1,8 @@
+# 忽略插件和编译生成内容
+lazy-lock.json
+lua/**/.DS_Store
+lua/**/__pycache__/
+lua/**/.cache/
+lua/**/node_modules/
+lua/**/dist/
+lua/**/build/
